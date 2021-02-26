@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://smcp.dev",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "seanmcp",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  }
+}
